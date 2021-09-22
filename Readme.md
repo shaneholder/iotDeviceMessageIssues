@@ -9,7 +9,7 @@ node client.js
 
 You should see output from the above debugs and two Client connected.
 
-Build the c# project
+Build the c# sender and c_client project(s)  The c_client uses the same variables as the node project.
 
 set the environment variable IOTHUB_CONNECTION_STRING to the hub connection string
 set the enviornment variable IOTHUB_DEVICE to the device
